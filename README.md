@@ -32,7 +32,7 @@ http://developer.apple.com/ (free registration required).
 
 5. Configure and make the project:
 
-        /runConfigureICU MacOSX --with-data-packaging=archive
+        ./runConfigureICU MacOSX --with-data-packaging=archive
         gnumake
 
 6. Back up old version of time zone data:
